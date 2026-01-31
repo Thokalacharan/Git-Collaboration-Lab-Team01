@@ -1,1 +1,6 @@
-# Git-Collaboration-Lab-Team01
+
+## Collaborator Details
+
+Name: Thota Leela Sai Krishna  
+Role: Collaborator  
+Department: CSE
